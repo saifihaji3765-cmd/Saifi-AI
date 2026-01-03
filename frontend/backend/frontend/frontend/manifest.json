@@ -1,8 +1,0 @@
-{
-  "name": "Saifi AI",
-  "short_name": "SaifiAI",
-  "start_url": "/app.html",
-  "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000"
-}
